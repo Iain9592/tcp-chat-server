@@ -109,8 +109,6 @@ This project focuses on low-level networking and concurrent system design in C.
 
 ---
 
-## 🔗 Author
+## 🔗 Authors
 
 Iain Campbell & Soumil Nag
-GitHub: https://github.com/Iain9592
-
